@@ -2,7 +2,8 @@
 适用于Cherry Studio的Claude风格主题
 Claude Style Theme for Cherry Studio
 
-
+![light](ScreenShot_2026-04-15_174141_987.png)
+![dark](ScreenShot_2026-04-15_174134_189.png)
 
 ## 获取最佳效果
 1. 下载2个字体（非商用试用版）
@@ -33,7 +34,6 @@ Claude Style Theme for Cherry Studio
 ## Ref
 - Based on https://linux.do/t/topic/1052529
 - https://github.com/bjl101501/CherryStudio-Claudestyle-dynamic/blob/main/dev.md
-- https://github.com/igeekbb/Cherry-Studio-Claude-theme
 - https://github.com/igeekbb/Cherry-Studio-Claude-theme
 
 ## CSS Code
