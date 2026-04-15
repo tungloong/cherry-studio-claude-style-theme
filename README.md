@@ -41,7 +41,9 @@ Claude Style Theme for Cherry Studio
 /* =========================================================
    CherryStudio Custom CSS — Claude Style Theme
    =========================================================
-   
+
+   https://github.com/tungloong/cherry-studio-claude-style-theme
+
    HOW TO GET THE BEST RESULTS:
    1. INSTALL FONTS (Non-commercial trial versions):
       - Sans-serif: Styrene
